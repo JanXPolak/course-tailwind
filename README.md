@@ -57,3 +57,11 @@ Certificate of completion: [[CERTIFICATE_URL](https://www.udemy.com/certificate/
 ```bash
 npm install
 npm run dev
+```
+Open http://localhost:3000/.
+
+## Production build
+```bash
+npm run build
+npm run preview
+```
